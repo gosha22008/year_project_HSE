@@ -23,5 +23,5 @@
 
 Построены пайплайны.
 
-По итогам результатов на данном этапе лучший результат по метрике ROC_AUC получается Log Reg с параметрами: class_weight: balanced, penalty: l1, C: 0.01, solver: liblinear:
-ROC_AUC = 0.965186
+По итогам результатов на данном этапе лучший результат по метрике ROC_AUC получается Log Reg с параметрами: class_weight: Log Reg с параметрами: class_weight: balanced, penalty: l1, C: 0.01, solver: liblinear:
+ROC_AUC = 0.965324
