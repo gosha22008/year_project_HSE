@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+.gitignore
+Chek3__AI_2024_YEAR_PROJECT_ipynb_ (1).ipynb
+
 # Distribution / packaging
 .Python
 build/
