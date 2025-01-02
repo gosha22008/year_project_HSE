@@ -11,4 +11,4 @@
 - Силиневич Илья (@uJlbI0IILuH), (https://github.com/kris01091980)
 - Цыбакова Ольга (@olgasub57), (https://github.com/Olga57)
 
-
+Для развертывания проекта запускам docker-compose.yml командой docker-compose build, затем docker-compose up. Клиент streamlit по адресу: http://localhost:8501 в целом полностью копирует сервис fastapi по адресу http://localhost:8000.
