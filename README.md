@@ -13,7 +13,7 @@
 - Силиневич Илья (@uJlbI0IILuH), (https://github.com/kris01091980)
 - Цыбакова Ольга (@olgasub57), (https://github.com/Olga57)
 
-- ##!Работа с моделями по 5 чекпоинту** выложена здесь[backend/checkpoint5.ipynb](backend/checkpoint5.ipynb)
+##!Работа с моделями по 5 чекпоинту** выложена здесь[backend/checkpoint5.ipynb](backend/checkpoint5.ipynb)
 
 ## Документация
 - **!Презентация по 5 чекпоинту** выложена здесь [Year_project_presentation_5check_16032025.pdf](Year_project_presentation_5check_16032025.pdf)
