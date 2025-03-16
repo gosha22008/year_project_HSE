@@ -16,7 +16,7 @@
 ## ! Работа с моделями по 5 чекпоинту выложена здесь [backend/checkpoint5.ipynb](backend/checkpoint5.ipynb)
 
 ## Документация
-- **! Презентация по 5 чекпоинту** выложена здесь [Year_project_presentation_5check_16032025.pdf](Year_project_presentation_5check_16032025.pdf), а также доступна в  [GoogleDocs](https://docs.google.com/)
+- **! Презентация по 5 чекпоинту** выложена здесь [Year_project_presentation_5check_16032025.pdf](Year_project_presentation_5check_16032025.pdf), а также доступна в  [GoogleDocs](https://docs.google.com/presentation/d/1ravblR6tPc6wHUvsqJksDdq7RVtF4rdOXzkjq0BEJuo/edit?usp=sharing)
 - Описание структуры проекта и инструкция по использованию сервиса описана в [report.pdf](report.pdf)
 
  
